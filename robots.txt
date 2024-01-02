@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://bandarqq-ptk.finalfit.org/sitemap.xml
